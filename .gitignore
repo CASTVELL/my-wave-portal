@@ -10,4 +10,4 @@ cache
 artifacts
 hardhat.config.js
 
-run.js
+scripts/run.js
