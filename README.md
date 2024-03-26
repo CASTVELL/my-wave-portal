@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Messages and Eth saver webAPP
 
 This project demonstrates a basic Hardhat use case. 
 It has 2 contracts, a test for each contract, and a script that deploys the contracts.
